@@ -20,3 +20,12 @@ public class BreakNestedLoop {
     }
 
 }
+
+/*Expected Output::
+
+Pass : 0 : 0 1 2 3 4 5 6 7 8 9
+Pass : 1 : 0 1 2 3 4 5 6 7 8 9
+Pass : 2 : 0 1 2 3 4 5 6 7 8 9
+Loop complete.
+
+* */
