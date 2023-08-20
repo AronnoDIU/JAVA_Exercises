@@ -1,2 +1,2 @@
 # JAVA_Exercises
-A Complete Core JAVA from Simple to Advanced topics
+A Complete Core JAVA from Basic to Advanced topics
